@@ -1,0 +1,23 @@
+section{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    position: relative;
+}
+h1{
+   color: rgb(58, 58, 20);
+}
+button{
+    margin-left: -8rem ;
+    background-color: rgb(16, 56, 150);
+    color: white;
+    border: none;
+    padding:10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.vitaplogo{
+    height: 13rem;
+}
